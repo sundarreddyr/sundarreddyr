@@ -12,4 +12,4 @@ I am a Software Engineer and Tech Lead with 6+ years of experience building back
 
 In my latest journey, I ventured into Agentic Engineering, leading implementation guidance and building harnesses for reliable code delivery.
 
-[My Portfolio](https://sundarreddyr.github.io/sundarreddy/)
+[My Portfolio](https://sundarreddyr.github.io/about-me)
